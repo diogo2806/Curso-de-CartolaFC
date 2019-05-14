@@ -1,0 +1,79 @@
+{
+  "country": [
+
+    {
+      "name": "Curso de Cartola FC",
+      "image":"",
+      "dishes": [
+        {
+          "dishname": "Nosso Cartola",
+          "image":"",
+          "description":"https://www.youtube.com/channel/UCqQL7dqq5jpCdOJ1xSf7Uig"
+
+        },
+        {
+          "dishname": "Camillo JOGA10",
+          "image":"",
+          "description":"https://www.youtube.com/user/CamilloJOGA10"
+
+        },
+        {
+          "dishname": "Cartola FC Mix",
+          "image":"",
+          "description":"https://www.youtube.com/user/cartolafcmix"
+
+        },
+        {
+          "dishname": "Cartola FC Dicas",
+          "image":"",
+          "description":"https://www.youtube.com/channel/UC9YJP66o4Z9U0Rpf9euFOfw"
+
+        },
+        {
+          "dishname": "Cartola FC Dicas",
+          "image":"",
+          "description":"https://www.youtube.com/channel/UCy5GNQnM-Xohvhdv9oIHE3Q"
+
+        },
+        {
+          "dishname": "SUPER DICAS CARTOLA FC",
+          "image":"",
+          "description":"https://www.youtube.com/channel/UCQ6uttBwGdfr2YLuuC9ySLg"
+
+        },
+        {
+          "dishname": "BetinGamer",
+          "image":"",
+          "description":"https://www.youtube.com/user/FutebolTotalBR"
+
+        },
+        {
+          "dishname": "Cartoleiros Gazeta do Povo",
+          "image":"",
+          "description":"https://www.youtube.com/channel/UCJVbvkrBLp7L2pnaqc5CmQQ"
+
+        },
+        {
+          "dishname": "Mitadas com Monique Cardone",
+          "image":"",
+          "description":"https://www.youtube.com/channel/UCfnPfXIvmCBZJHZDtLXYn2Q"
+
+        },
+        {
+          "dishname": "Gazeta do Cartola FC",
+          "image":"",
+          "description":"https://www.youtube.com/user/gazetadocartolafc"
+
+        },
+        {
+          "dishname": "Cartola FC - Segredos da Cartomante FC",
+          "image":"",
+          "description":"https://go.hotmart.com/C13574838N"
+
+        }
+
+      ]
+    }
+
+  ]
+}

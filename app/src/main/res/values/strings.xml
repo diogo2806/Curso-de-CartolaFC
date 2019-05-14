@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CartolaFV v1.0.1</string>
+
+    <string name="admob_appid">ca-app-pub-8861439710066954~1113650516</string>
+    <string name="admob_app_id">ca-app-pub-8861439710066954~1113650516</string>
+
+    <string name="admob_banner">ca-app-pub-8861439710066954/7362174729</string>
+    <string name="admob_interstitial_id">ca-app-pub-8861439710066954/9567774508</string>
+
+    <string name="loading_video">Loading video…</string>
+
+
+
+
+</resources>
